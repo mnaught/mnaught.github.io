@@ -1,25 +1,9 @@
 ---
 title: "Targeted Newsletter App"
 excerpt: "This small web application I did in 2006 changed how I develop software."
-header: 
+eader: 
   teaser: assets/folio/cl/intelLogo.jpg
-sidebar:
-  - title: "Role"
-    image: /assets/folio/cl/contractPanel.png
-    image_alt: "logo"
-    text: "Code Labs Contract" 
-  - title: "Tech"    
-    text: "Asp.Net, Tibco Service bus" 
-gallery:
-  - url: /assets/folio/cl/IDEA_Screen_Main.bmp
-    image_path: assets/folio/cl/IDEA_Screen_Main.bmp
-    alt: "placeholder image 1"
-  - url: /assets/folio/cl//IDEA_Screen_EditOffer.bmp
-    image_path: assets/folio/cl/IDEA_Screen_EditOffer.bmp
-    alt: "placeholder image 2"
-  - url: /aassets/folio/cl/IDEA_Screen_AddNL.bmp
-    image_path: assets/folio/cl/IDEA_Screen_AddNL.bmp
-    alt: "placeholder image 3"
+
 ---
 
 In 2006 Intel hired me to do a Data Quality Dashboard project for one of their Marketing groups.  

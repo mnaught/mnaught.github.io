@@ -98,3 +98,5 @@ defaults:
       layout: single
       author_profile: false
       share: false
+github: [metadata]
+repository: mnaught/mnaught.github.io

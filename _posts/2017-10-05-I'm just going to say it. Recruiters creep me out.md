@@ -83,35 +83,39 @@ The reason I find placement firms so disappointing today is, really because none
 
 ## A pecking order
 
-Ok, so the recruitment business operates, in general, baking a percentage brokerage of another person's skill.  It's usually direct bill to the client, and a check cut to you.  
+Ok, so the recruitment business operates, in general, by taking a percentage brokerage of another person's skill.  
 
-The value proposition for the CLIENT (not me) is that recruiting takes time, screening takes time, background checking takes time.  
+It's usually direct bill to the client, and a check cut to you.  
+
+The value proposition for the CLIENT (not the "human resource") is that recruiting takes time. Screening takes time. 
+Background checking takes time.  
+Making sure the recruiting and hiring process is compliant with  complex employment laws takes dilligence.
+
 
 For the "resource" (that's us), this arrangment has pros and cons.
 PROS:
 
-* convenient
-* good selection of prospects
-* someone else does the legwork handling the presentation and communications with the client
-
+* Convenient leads on jobs
+* Good selection of prospects
+* Someone else does the legwork handling the presentation and communications with the client
 
 CONS:
- Most of the time, the "resource" has very little lattitude to define the terms of the arrangement.  
+ * Most of the time, the "resource" has very little lattitude to define the terms of the arrangement. 
  
+
  The three parties, the client, the recruiter and "the talent" carry different weight in those decisions, and the order goes like this:
 
 1) the client
 2) the staffing agency
 3) the "resource".  
 
-The best recruiter I ever met acted as if the order was:
+Tom, the best recruiter I ever met, acted as if the order was:
 1) me
 2) the client
 3) the staffing agency
 
 Now, obviously Tom's business operates on agreements with the clients.  
-So,  the first list still has a lot of validity.
-
+So,  the first list still has a lot of validity in Tom's world.
 But it didn't seem that way....
 
 ## Compare that to this guy

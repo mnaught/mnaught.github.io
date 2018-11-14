@@ -12,7 +12,8 @@ Here's a story about my first ever experience with headhunters, how I learned to
 Actually, that is the basic premise.  
 It sounds negative, but it isn't.  
 
-I'm just trying to be realistic about a few things, looking at it from the perspective of "talent".
+I'm just trying to be realistic about a few things, looking at it from the perspective of a "human resource."
+
 But, before I go into that I want to tell you about ...
 
 # The best recruiter I ever met.

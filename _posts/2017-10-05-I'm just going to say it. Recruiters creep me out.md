@@ -44,22 +44,23 @@ Then, I want you to get a 3x5 card (you can see why I liked this guy) and write 
 Ok.
 
 Next, on each card I want you to list:
-* The situation or circumstances.  i.e the business driver, negating a challange to an operation or goal
-* The actions you took, the role you played.
-* What the outcome was.
+* The situation or circumstances
+    (i.e.: What was the business driver, negating a challange to an operation or goal?)
+* The actions you took, the role you played 
+* What the outcome was
 
-Now, once you have that, carry those around with you, and memorize them.  
-practice actually presenting them in that exact format, so you can comment in a meeting,
+Now, carry those cards around with you, and memorize them.  
+Practice actually talking about those points in that exact format.
 
 The situation was....
 and for those reasons, here are the actions I took, contributing directly to the outcome...
 and the result was .... (goal was exceeded, we saved $200,000 )
 
-So, I did exactly that, and before the interview, he called me and said, ok, we'll do the same interview again.  I have a stopwatch, try to keep your responses to maybe 45s.
+So, I did exactly that, and before the interview, he called me and said, ok, we'll do the same interview again.  
 
-And we ran it, and at the end he had some feedback, like the appropriate use of 'um' in the english language and other simplicities like that.   
-
-Where I hit the mark, where I went over time.
+I have a stopwatch, try to keep your responses to maybe 45s.
+And we ran through it.
+At the end he had some more feedback.  
 
 ## Tom was kind of an anomoly
 

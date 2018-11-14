@@ -100,10 +100,10 @@ PROS:
 * Someone else does the legwork handling the presentation and communications with the client
 
 CONS:
- * Most of the time, the "resource" has very little lattitude to define the terms of the arrangement. 
+ * Most of the time, the "resource" has very little latitude to define the terms of the arrangement. 
  
 
- The three parties, the client, the recruiter and "the talent" carry different weight in those decisions, and the order goes like this:
+ The three parties, the client, the recruiter and "the resource" carry different weight in those decisions, and the order goes like this:
 
 1) the client
 2) the staffing agency
@@ -132,7 +132,7 @@ During maybe the second discussion I'm having with the guy I mention I've worked
 
 "What? he says? the only recruiters you should be working with are me and (name of some guy I've never heard of.)"  
 
-That's not really appropriate or even respectful.
+Full Stop.  That's niether appropriate or respectful.
 
 I hadn't signed anything.
 
@@ -158,7 +158,10 @@ When I call him back, he's really irritated with me.
 "Yeah, I've been working a chopsaw all morning."  
 
 "Well" this didn't seem to be any kind of answer to him. "They want to meet with you"
-"You know, I think I'm going to pass on this one."  I said.
+
+Deep breath.
+
+"You know, I think I'm going to pass on this one."  
 
 I then kicked him and every other recruiter off of my linked in account.
 It's time for a new approach.
@@ -166,25 +169,29 @@ It's time for a new approach.
 
 ### Staffing is haaaard.
 
-Most folks I've worked with have a level perspective, and understand that it's a 2-way sales job.
+Most folks I've worked with have a level perspective, and understand that staffing as a busines is a 2-way sales job.
+
 You sell the candidate on the project or company.
 You sell the client on the candidate.
 
 It is not an easy job.  I get that.
-
 But guess what?  Neither is mine.
+
 And like most professionals, I've worked pretty hard to become a commodity.
 
 But occasionally, I meet someone who looks at the job requisition they are sitting on as a power position.   
 
 And in that perspective, I may as well be a new car the guy's trying to sell.
 
-I would've met with the client.  But this guy was so much of a Gatekeeper -- and flat RUDE -- that I wanted nothing to do with his company.  
+And that model seems very, very off to me and to anyone with any experience or self respect.
 
+I would've met with this guy's client.
 
-Again consider the order of importance in this relationship as snotbag presents it:
+But my interactions with  were enough to sell me that I wanted nothing to do with his company.  
 
-1) The client, your eventual employer
+Again, consider the order of importance in this relationship as snotbag presents it:
+
+1) The client 
 2) The gatekeeper's company 
 3) the gatekeeper himself
 4) me.

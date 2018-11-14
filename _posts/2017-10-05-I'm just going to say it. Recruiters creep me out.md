@@ -20,9 +20,15 @@ But, before I go into that I want to tell you about ...
 
 When I arrived in Oregon, just out of college, job searches were something of a hobby of mine.  
 
-My job search was a system of 3x5 index cards.  Each week I would get the Oregonian, highlight the jobs ads that looked interesting. Then I'd cut each ad out, pasted it on a card,and then used that as the basis for a mass resume mailing every Sunday.   I filed each card in a little box with dividers by week. When I'd get a response or a call, I'd immediately pull out the card, and mark it up with the details of the progression on the lead.    
+My job search was a system of 3x5 index cards.  Each week I would get the Sunday newspaper and highlight all the jobs ads that looked interesting. 
 
-When Monster.com launched, I thought it was cute.
+Then, I'd cut each ad out and paste it on a card.
+I'd use that for a mass resume mailing every Sunday.   
+Printing, signing, envelopes.  
+
+After I filed each card in a little box with dividers by week. When I'd get a response or a call, I'd immediately pull out the card, and mark it up with the details of the progression on the lead.    
+
+( When Monster.com launched, I thought it was cute. And it was a welcome relief!)
 
 It wasn't long until I started receiving calls from staffing agencies. 
 

@@ -62,7 +62,7 @@ New requirements became easy to address once the base platform framework was dev
  
  All I had to do to implement the automatic updating feature was write an adapter taking messages off of the MassTransit bus and pushing them through a SignalR hub and also implement the javascript to update the display when new information was pushed.  
  
- SignalR is such a great toolkit.  It's an implementation of rpc style callbacks for a javascript function.  (WOAH THATS TECHNICAL!.. Well you are in the tech talk section.)   
+ SignalR is such a great toolkit.  It's an implementation of rpc style callbacks for  javascript functions.   
  
  Basically, this pattern lets the web page running on the users browser subscribe to certain events.  And when those events occur, the event triggers a javascript function running in the web browser, receiving data from that event.
 
@@ -76,9 +76,4 @@ System Features:
  * Any actions taken in the other systems which affect the qualification status of a displayed user is immediately updated on any screen viewing this page.  This includes any web user in the world who has the page up on their browser.
  * Users can build their own dashboard to display by selecting tracks.
 
-Tech: ASP.Net MVC, SignalR, javascript, Windows services; tons of .Net opensource libraries.
-
-
-
-
-
+Tech: ASP.Net MVC, SignalR, javascript, jquery Windows services.

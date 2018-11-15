@@ -66,7 +66,6 @@ Subsystems: Portal provides user acess for these subsystems
 * HB/Risk management
 * HB/Qualifications
 * HB/Flight and Duty
-* HB/Aircraft Configuration
 
 Admin Features
 * User account admin / permissions editor
@@ -77,22 +76,19 @@ Admin Features
 
 ## Burndown / Debrief
 
-I did a lot of work to establish with management some funny ideas about how to develop software.
+I did a lot of work to establish with stakeholders some funny ideas about how to develop software.
 
 I explained version numbers, sprints, requirements backlogs, and proposed a way of working based off of something called SCRUM.
 
-I installed MS Team Foundation Server and explained it to management.
-
-I evangelized TFS to IT group, and explained why these kinds of collaborative systems are an improvement over SourceSafe, which they were using in 2013 for source control.   
+I installed MS Team Foundation Server and explained it.  I evangelized TFS to IT group, and explained why these kinds of collaborative systems are an improvement over SourceSafe, which they were using in 2013 for source control.   
 
 I showed them the different templates for workflow, and explained the workflow I used and how it supports iterative refinement of what we build.  
 
-I was fortunate in that the management and the IT group was open to some of these ideas.  
+I was fortunate in that management and the IT group were open to some of these ideas.  
 
-The funny ideas paid off as stakeholders saw that the features were being added incrementally, and predictably.  Further, the features were solving the problems they intended to solve and they were doing it consistently and reliably.
+The funny ideas paid off as stakeholders saw that features were being added incrementally and predictably.  Further, the features were solving the problems they intended to solve and they were doing it consistently and reliably.
 
 Using this agile-inspired process, and some improved (dare I say "standard") software development process, I designed and built a number of systems for this group in 2 to 3 week sprints over the next five years.  
 
 
-## Tech Talk
 

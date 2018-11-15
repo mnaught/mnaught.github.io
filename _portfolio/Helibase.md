@@ -49,7 +49,7 @@ Home Run.
 
 
 ## Solution path
-{% include gallery caption="While presented conceptually to the users as a single application, \"Helibase\" was actually a collection of subsystems sitting on a service bus." %}
+{% include gallery caption="While presented conceptually to the users as a single application, the portal is actually a collection of subsystems sitting on a service bus.  Here are a few screens from the quals subsystem." %}
 
 Helibase Portal:
 * User Portal presenting and securing all system features by user/group.
@@ -69,7 +69,7 @@ Subsystems: Portal provides user acess for these subsystems
 
 Admin Features
 * User account admin / permissions editor
-* Message montitoring and alerting
+* Message monitoring and alerting
 * Emergency Response Plan upload
 * Reports
 

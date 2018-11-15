@@ -179,24 +179,23 @@ It's time for a new approach.
 ### Staffing is haaaard.
 
 Most folks I've worked with have a level perspective, and understand that staffing as 
-a business is a 2-way sales job.
+a business is a kind of a 2-way sales job.
 
 Sell the candidate on the project or company.
 Sell the client on the candidate.
 
 It is not an easy job.  I get that.
+But guess what?  Neither is mine.  
 
-But guess what?  Neither is mine.  And like most professionals, I've worked pretty hard to become a commodity.
+And like most professionals, I've worked pretty hard to become a commodity.
 
 But occasionally, I meet someone who looks at the job requisition they are sitting on as a power position.   
 
 And in that perspective, I may as well be a new car the guy's trying to sell.
 
-And that model seems very, very off to me and to anyone with any experience or self respect.
+That model seems very, very off to me and to anyone with any experience or self respect.
 
-I would've met with this guy's client.
-
-But my interactions with the middleman were enough to sell me that I wanted nothing to do with his company.  
+I would've met with this guy's client.  But my interactions with the middleman were enough to sell me that I wanted nothing to do with his company.  
 
 Again, consider the order of importance in this relationship as snotbag presents it:
 

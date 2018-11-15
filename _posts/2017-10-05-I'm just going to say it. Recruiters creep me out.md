@@ -76,11 +76,7 @@ Looking back on it, no recruiter I've ever worked with has ever done anything li
 
 Actually, I would call this more coaching than just "recruiting".
 
-There are people charging for services like that today, but this guy wasn't.
-
-He was a regular ol' staffing guy.  
-
-He recognized I was new to job hunting, and went the extra mile.
+There are people charging for services like that today, but this guy wasn't.  He was a regular ol' staffing guy.   But he recognized I was new to job hunting, and went the extra mile.
 
 The reason I find placement firms so disappointing today is, really because none them seem to operate from this basic mindset: it's a double sell.  Recruiters have two clients.
 

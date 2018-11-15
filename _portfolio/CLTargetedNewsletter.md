@@ -1,6 +1,6 @@
 ---
 title: "Targeted Newsletter App"
-excerpt: "This small web application I did in 2006 changed how I develop software."
+excerpt: "This small web application I did in 2006 changed how I  design software."
 header: 
   teaser: assets/folio/cl/intelLogo.jpg
 sidebar:
@@ -22,16 +22,15 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-In 2006 Intel hired me to do a Data Quality Dashboard project for one of their Marketing groups.  
+In 2006 this chip-maker hired me to do a Data Quality Dashboard project for one of their groups.  
 
 As often happens, there was some roadblock with the planning & they asked if I'd do this small web application in the meantime.
-
  
 {% include gallery caption="A very basic user interface accepting spreadsheets for data input, preparing order files and dropping them on the ESB for delivery to a 3rd party vendor who handles the generation and sendout." %}
 
 This small utility app enabled marketers to prepare datafiles for submission to a 3rd party vendor who did mass-email newsletter generation, targeting individual subscribers with customized content which matches their own interests. 
 
-I include here because this project fundamentally changed how I approach software design for enterprise applications, as it was my first exposure to a real world ESB. 
+I include here because this project fundamentally changed how I approach software design for enterprise applications, as it was my first exposure to a real world enterprise service bus-:. 
 
 
 {: .notice--info}

@@ -30,8 +30,11 @@ As often happens, there was some roadblock with the planning & they asked if I'd
 
 This small utility app enabled marketers to prepare datafiles for submission to a 3rd party vendor who did mass-email newsletter generation, targeting individual subscribers with customized content which matches their own interests. 
 
-I include here because this project fundamentally changed how I approach software design for enterprise applications, as it was my first exposure to a real world enterprise service bus-:. 
+I include here because this project fundamentally changed how I approach software design for enterprise applications. 
 
+For me it was an important first exposure to a real world enterprise service bus.  This was the very start of me thinking of applications as participants in a larger ecosystem.
+
+This in turn changed how I design software overall.
 
 {: .notice--info}
 <div>

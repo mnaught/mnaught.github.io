@@ -40,7 +40,7 @@ They hired me to write a software system which would enable lot employees at ret
 
 Liz had identified that they wanted to do that using Intermec's CK3 mobile devices, which look like this:
 
-![Intermek ck3 devices](/assets/folio/csg/intermecck3s.jpg)
+![Intermek ck3 devices](/assets/folio/csg/Intermecck3s.jpg)
 
 These are some very capable, rugged little devices running windows mobile (Well, it was called WinCE at the time, but was renamed windows mobile soon after this solution was developed.)   
 

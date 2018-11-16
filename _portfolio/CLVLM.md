@@ -36,7 +36,7 @@ Liz the BSA looks like this when holding a CK3 mobile device:
 
 ![A BSA in her natural habitat.  This one has an Intermec CK3 device, very rare at the time.](/assets/folio/csg/lizBSA.jpg)
 
-They hired me to write a software system which would enable lot emsployees at retail locations to update the enterprise data systems as the asset moves through the workflow to eventual crushing & smelting into raw steel.
+They hired me to write a software system which would enable lot employees at retail locations to update the enterprise data systems as the asset moves through the workflow to eventual crushing & smelting into raw steel.
 
 Liz had identified that they wanted to do that using Intermec's CK3 mobile devices, which look like this:
 

@@ -17,17 +17,17 @@ excerpt: ""
 ---
 
 
-:----------------------------|:------------------|
+|:-----------------------|:------------------|
 OBJECTIVES| |
-| Contract software development projects
-| Senior level employment (Director, CTO)
+| Contract software development projects |
+| Senior level employment (Director, CTO) |
+| Joint Ventures and Strategic Partnerships |
 
 :----------------------------|:------------------|
 EDUCATION| |
 |M.S. Computer Science   | [Oregon Graduate Institute](https://en.wikipedia.org/wiki/OGI_School_of_Science_and_Engineering) 
- | B.A. Psychology/ Tech Communications  | [University of New Mexico](http://www.unm.edu/)
+ | B.A. Psychology / Tech Communications  | [University of New Mexico](http://www.unm.edu/)
  | Adjunct Faculty, Computer Science   |[Portland Community College](http://www.pcc.edu)
- | Teaching Courses: CS140U, CS201 -- Fall 2018 |
 
 
 ### Companies Founded

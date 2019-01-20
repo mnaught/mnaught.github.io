@@ -11,7 +11,7 @@ header:
 excerpt: ""
 ---
 
-First consults are free.  I'd love to hear what's vexing your business, unit or operation and envision an impacting solution with you.
+First consults are free.  I'd love to discuss your vision, learn about your goals and have a frank discussion on the challenges in front of you.  
 
 |:---|:-------:|--------:|
 | email: | <mac@redridersolutions.com>   |    |

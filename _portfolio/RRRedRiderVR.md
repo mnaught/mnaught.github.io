@@ -27,9 +27,7 @@ Bringing VR to the People.
 
 In February 2018 I was seized with the idea of creating a mobile virtual reality arcade.  The idea was to offer a service that would bring a virtual reality feature to corporate events, parties, classrooms... anywhere.
 
-Was it a sound business decision?  I didn't care.  It had to happen.  Eventually, I want to start working with people to develop custom solutions using this exciting technology.
 
-So, this is a good way to dip my toe into it.
 
 By April I had setup a new LLC, produced marketing materials, acquired the necessary insurance and licenses, setup domain name and website stuff, secured release copy, commissioned or hacked up graphic art, purchased hardware & software and launched the platform with a booth at Wizard World Portland.  
 

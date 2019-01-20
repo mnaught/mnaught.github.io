@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg 
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "\"Developing systems is very different than just writing code or championing a particular technology or framework. A well engineered system has an underlying integrity and vision.\"
--- Me "
+"
 intro: 
   - excerpt: 'Start with first principles, first.'
 feature_row:
